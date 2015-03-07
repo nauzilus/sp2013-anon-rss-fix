@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<system.webServer>
+		<rewrite>
+			<rules>
+				<rule name="RssXslt For Anonymous Users">
+					<match url="^(.*/_layouts/15/)(rssxslt.aspx)" />
+					<action type="Redirect" url="{R:1}AnonymousRss/{R:2}" />
+				</rule>
+			</rules>
+		</rewrite>
+	</system.webServer>
+</configuration>

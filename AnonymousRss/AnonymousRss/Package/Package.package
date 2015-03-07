@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="2bca45c5-751e-449e-803f-c8df60674d3f" solutionId="2bca45c5-751e-449e-803f-c8df60674d3f" resetWebServer="false" sharePointProductVersion="15.0" name="AnonymousRss" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="0b620f19-0dde-4124-aed7-debaa36d498e" />
+  </projectItems>
+</package>
